@@ -5,12 +5,11 @@ You can find how it works inside the code via comments. Thanks!
 
 # CODEBOOK:
 
+* "subject": Person who did the activity
+* "activity_label": String of the determined activity
 
-"subject": Person who did the activity
-"activity_label": String of the determined activity
 
-
-#Accelerometer and Gyroscope data
+# Accelerometer and Gyroscope data
 * "tBodyAcc-mean()-X"
 * "tBodyAcc-mean()-Y"
 * "tBodyAcc-mean()-Z"
